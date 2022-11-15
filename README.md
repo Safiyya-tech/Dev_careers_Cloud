@@ -32,7 +32,7 @@ The idea is to deploy code across different branches and get used to git command
 
 2. Identify your team, check with @sophie
 
-4. Create a new branch with your firstname locally and publish it to this repository
+4. Create a new branch with your first name locally and publish it to this repository
  (This is where all your changes will be made)
 
 5. Find the branch for your team (This is where your PR's will be merged to)
